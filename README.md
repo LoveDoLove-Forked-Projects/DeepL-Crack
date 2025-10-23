@@ -38,5 +38,5 @@ This extension is made with Preact and material-ui. It hijacks XMLHttpRequest. I
 <img src="https://github.com/blueagler/blueagler/raw/main/assets/alipay_reward_code.JPG" height="400"/>
 
 ## Telegram Channel & Group
-<a href="https://t.me/DeepL_Crack_Announcement"><img src="https://user-images.githubusercontent.com/61572188/221822226-47c6469b-06b6-4151-9ad6-36a3da10b2b7.jpg" width="300px"/></a>
-<a href="https://t.me/DeepL_Crack"><img src="https://user-images.githubusercontent.com/61572188/221823275-8ff3b6a7-cf00-438e-800a-050bd96bdadc.jpg" width="300px"/></a>
+<a href="https://t.me/DeepL_Crack_Announcement">DeepL Helper Channel</a>
+<a href="https://t.me/DeepL_Crack">DeepL Helper Group</a>
